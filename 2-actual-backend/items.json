@@ -71,7 +71,7 @@
         "discount_percentage": 0,
         "return_period": 14,
         "delivery_date": "10 Oct 2023",
-        "rating": { "stars": 0, "count": 0 }
+        "rating": { "stars": 3, "count": 800 }
       },
       {
         "id": "007",
@@ -81,6 +81,8 @@
         "original_price": 1599,
         "current_price": 639,
         "discount_percentage": 60,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
         "rating": { "stars": 4.2, "count": 388 }
       },
       {
